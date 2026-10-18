@@ -4,6 +4,8 @@ Personal portfolio/resume website for **Jeevan** — Full-Stack Web Developer & 
 Every fact on this site comes from `JEEVAN.pdf` / `JEEVAN_resume.docx` or the public
 GitHub profile [github.com/Jeevan2410](https://github.com/Jeevan2410). Nothing is invented.
 
+![Portfolio hero with the name Jeevan beside a 3D wireframe sphere](docs/screenshot.jpg)
+
 ## Stack
 
 - **Vite 7 + React 19** — fast builds, manual chunk splitting
