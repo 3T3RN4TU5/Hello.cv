@@ -6,6 +6,8 @@ GitHub profile [github.com/Jeevan2410](https://github.com/Jeevan2410). Nothing i
 
 ![Portfolio hero with the name Jeevan beside a 3D wireframe sphere](docs/screenshot.jpg)
 
+![Animated demo: scrolling through the 3D resume site](docs/demo.gif)
+
 ## Stack
 
 - **Vite 7 + React 19** — fast builds, manual chunk splitting
