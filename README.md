@@ -2,7 +2,7 @@
 
 Personal portfolio/resume website for **Jeevan** — Full-Stack Web Developer & MCA graduate.
 Every fact on this site comes from `JEEVAN.pdf` / `JEEVAN_resume.docx` or the public
-GitHub profile [github.com/Jeevan2410](https://github.com/Jeevan2410). Nothing is invented.
+GitHub profile [github.com/3T3RN4TU5](https://github.com/3T3RN4TU5). Nothing is invented.
 
 ![Portfolio hero with the name Jeevan beside a 3D wireframe sphere](docs/screenshot.jpg)
 

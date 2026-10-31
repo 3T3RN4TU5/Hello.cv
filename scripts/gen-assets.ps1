@@ -52,7 +52,7 @@ function New-OgImage($path, $w, $h) {
   $g.DrawLine($linePen, ($w/2 - 120), 455, ($w/2 + 120), 455)
   $linePen.Dispose()
 
-  $g.DrawString('github.com/Jeevan2410', $mono, $muted, $r4, $fmt)
+  $g.DrawString('github.com/3T3RN4TU5', $mono, $muted, $r4, $fmt)
 
   $g.Dispose()
   $bmp.Save($path, [System.Drawing.Imaging.ImageFormat]::Png)

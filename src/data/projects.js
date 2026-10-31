@@ -1,6 +1,6 @@
 /**
  * FEATURED PROJECTS — content strictly limited to what JEEVAN.pdf states.
- * Both featured projects were checked against github.com/Jeevan2410: neither
+ * Both featured projects were checked against github.com/3T3RN4TU5: neither
  * has a public repository, so no repo links are shown and details are not
  * embellished beyond the resume wording. The `accent` value is presentation
  * only (drives the 3D lighting on hover).
@@ -53,10 +53,10 @@ export const featuredProjects = [
 
 /**
  * Hidden project (easter egg) — verified real public repository.
- * github.com/Jeevan2410/Connect-4-game — vanilla JS game.
+ * github.com/3T3RN4TU5/Connect-4-game — vanilla JS game.
  */
 export const hiddenProject = {
   name: 'Connect 4',
-  repo: 'https://github.com/Jeevan2410/Connect-4-game',
+  repo: 'https://github.com/3T3RN4TU5/Connect-4-game',
   note: 'A hidden classic — discovered via the terminal. Built with vanilla JavaScript.',
 };

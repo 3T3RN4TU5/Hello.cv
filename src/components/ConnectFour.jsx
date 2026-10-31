@@ -45,7 +45,7 @@ const boardFull = (board) => board[0].every((v) => v !== 0);
 
 /**
  * Easter egg #4 — a playable nod to a real, verified repository:
- * github.com/Jeevan2410/Connect-4-game (vanilla JavaScript).
+ * github.com/3T3RN4TU5/Connect-4-game (vanilla JavaScript).
  * Local two-player; the real thing lives in the repo.
  */
 export default function ConnectFour({ open, onClose }) {
@@ -149,7 +149,7 @@ export default function ConnectFour({ open, onClose }) {
             <p className="c4-repo">
               the real one lives at{' '}
               <a href={hiddenProject.repo} target="_blank" rel="noreferrer">
-                github.com/Jeevan2410/Connect-4-game
+                github.com/3T3RN4TU5/Connect-4-game
               </a>
             </p>
           </motion.div>

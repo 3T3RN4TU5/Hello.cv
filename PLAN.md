@@ -1,7 +1,7 @@
 # DigitalCV — Implementation Plan
 
 Personal 3D interactive portfolio for **Jeevan** (Full-Stack Web Developer, MCA), built strictly from
-`JEEVAN.pdf` / `JEEVAN_resume.docx` and verified public data on `github.com/Jeevan2410`.
+`JEEVAN.pdf` / `JEEVAN_resume.docx` and verified public data on `github.com/3T3RN4TU5`.
 
 ## Technology Stack
 
@@ -60,7 +60,7 @@ bar, hero entrance choreography after preloader, magnetic hover on CTAs, micro-i
 3. **Developer mode** — terminal command `dev` → HUD overlay: active section, FPS, device pixel ratio,
    reduced-motion state, accent state. No sensitive info.
 4. **Hidden project** — terminal command `play` (or Konami? no — `play`) launches a playable mini
-   **Connect 4** (a real, verified repo: `Jeevan2410/Connect-4-game`) with repo link.
+   **Connect 4** (a real, verified repo: `3T3RN4TU5/Connect-4-game`) with repo link.
 5. **Cursor interaction** — custom cursor + click particle bursts; long-press reveals rotating
    "developer fact" captions (all factual).
 
@@ -68,7 +68,7 @@ bar, hero entrance choreography after preloader, magnetic hover on CTAs, micro-i
 
 - Featured projects (Happy Tails, Library Analytics) rendered from resume text only — no repo links
   where none exist publicly ("repository not publicly available" noted once, honestly).
-- GitHub section fetches `api.github.com/users/Jeevan2410/repos` client-side (public, unauthenticated),
+- GitHub section fetches `api.github.com/users/3T3RN4TU5/repos` client-side (public, unauthenticated),
   filters forks, shows name/language/description/demo links + "live" badge; falls back to the verified
   static list on failure. No fabricated stars or stats.
 
@@ -85,4 +85,4 @@ bar, hero entrance choreography after preloader, magnetic hover on CTAs, micro-i
 ## Deployment
 
 `npm run build` → static `dist/` → Vercel (matches the existing `digital-cv-mu-dun.vercel.app` /
-`Jeevan2410/Digital-CV` repo). Resume PDF ships as `public/resume.pdf` for the "Résumé" CTA.
+`3T3RN4TU5/Digital-CV` repo). Resume PDF ships as `public/resume.pdf` for the "Résumé" CTA.
