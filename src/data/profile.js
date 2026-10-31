@@ -1,7 +1,7 @@
 /**
  * SINGLE SOURCE OF TRUTH — every fact below is taken verbatim from
  * JEEVAN.pdf / JEEVAN_resume.docx (verified identical) or from the public
- * GitHub profile github.com/Jeevan2410. Nothing here is invented.
+ * GitHub profile github.com/3T3RN4TU5. Nothing here is invented.
  * If a value is unknown, it is omitted or null — never guessed.
  */
 
@@ -14,8 +14,8 @@ export const profile = {
   email: 'jeevankumar24102001@gmail.com',
   phone: '+91 9353459119',
   phoneHref: '+919353459119',
-  github: 'https://github.com/Jeevan2410',
-  githubUser: 'Jeevan2410',
+  github: 'https://github.com/3T3RN4TU5',
+  githubUser: '3T3RN4TU5',
   linkedin: 'https://linkedin.com/in/jeevan-kumar001',
   resume: '/resume.pdf',
   // Resume lists no city — intentionally omitted.
